@@ -1,0 +1,48 @@
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Changes to be committed:
+#	deleted:    0x01-shell_permissions/.101-symbolic_link_permissions.swp
+#	deleted:    0x01-shell_permissions/0x00-shell_basics/.myscript.swp
+#	deleted:    0x01-shell_permissions/0x00-shell_basics/0-current_working_directory
+#	deleted:    0x01-shell_permissions/0x00-shell_basics/1-listit
+#	deleted:    0x01-shell_permissions/0x00-shell_basics/10-back
+#	deleted:    0x01-shell_permissions/0x00-shell_basics/100-lets_move
+#	deleted:    0x01-shell_permissions/0x00-shell_basics/101-clean_emacs
+#	deleted:    0x01-shell_permissions/0x00-shell_basics/102-tree
+#	deleted:    0x01-shell_permissions/0x00-shell_basics/103-commas
+#	deleted:    0x01-shell_permissions/0x00-shell_basics/11-lists
+#	deleted:    0x01-shell_permissions/0x00-shell_basics/12-file_type
+#	deleted:    0x01-shell_permissions/0x00-shell_basics/13-symbolic_link
+#	deleted:    0x01-shell_permissions/0x00-shell_basics/14-copy_html
+#	deleted:    0x01-shell_permissions/0x00-shell_basics/2-bring_me_home
+#	deleted:    0x01-shell_permissions/0x00-shell_basics/3-listfiles
+#	deleted:    0x01-shell_permissions/0x00-shell_basics/4-listmorefiles
+#	deleted:    0x01-shell_permissions/0x00-shell_basics/5-listfilesdigitonly
+#	deleted:    0x01-shell_permissions/0x00-shell_basics/6-firstdirectory
+#	deleted:    0x01-shell_permissions/0x00-shell_basics/7-movethatfile
+#	deleted:    0x01-shell_permissions/0x00-shell_basics/8-firstdelete
+#	deleted:    0x01-shell_permissions/0x00-shell_basics/9-firstdirdeletion
+#	deleted:    0x01-shell_permissions/0x00-shell_basics/README.md
+#	deleted:    0x01-shell_permissions/0x01-shell_permissions/0-iam_betty
+#	deleted:    0x01-shell_permissions/0x01-shell_permissions/1-who_am_i
+#	deleted:    0x01-shell_permissions/0x01-shell_permissions/10-mirror_permissions
+#	deleted:    0x01-shell_permissions/0x01-shell_permissions/100-change_owner_and_group
+#	deleted:    0x01-shell_permissions/0x01-shell_permissions/101-symbolic_link_permissions
+#	deleted:    0x01-shell_permissions/0x01-shell_permissions/11-directories_permissions
+#	deleted:    0x01-shell_permissions/0x01-shell_permissions/13-change_group
+#	deleted:    0x01-shell_permissions/0x01-shell_permissions/2-groups
+#	deleted:    0x01-shell_permissions/0x01-shell_permissions/3-new_owner
+#	deleted:    0x01-shell_permissions/0x01-shell_permissions/4-empty
+#	deleted:    0x01-shell_permissions/0x01-shell_permissions/5-execute
+#	deleted:    0x01-shell_permissions/0x01-shell_permissions/6-multiple_permissions
+#	deleted:    0x01-shell_permissions/0x01-shell_permissions/7-everybody
+#	deleted:    0x01-shell_permissions/0x01-shell_permissions/8-James_Bond
+#	deleted:    0x01-shell_permissions/0x01-shell_permissions/9-John_Doe
+#	deleted:    0x01-shell_permissions/0x01-shell_permissions/:x
+#	deleted:    0x01-shell_permissions/0x01-shell_permissions/README.md
+#	new file:   0x01-shell_permissions/12-directory_permissions
+#
